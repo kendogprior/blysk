@@ -1,11 +1,24 @@
 <nav class="sidebar-nav">
-    <ul class="navbar-nav">
+    {{/*  <ul class="navbar-nav sidebar-border">  */}}
+    <ul class="nav flex-column">
+
         {{ $title:= .Title }}
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-        <!-- <a class="nav-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a> -->
-        <li class="navrow"><a href="{{ .URL }}"  {{if eq .Title $title}}id="main" {{end}} >{{.Title}}</a></li>
-
+            <li class="navrow"><a class = "nav-link"  href="{{ .URL }}"  {{if eq .Title $title}}id="uline" {{end}}>{{.Title}}</a></li>
         {{ end }}
     </ul>
-</nav>
+
+
+
+    {{/*  <div id="nav">
+            {{ $title:= .Title }}
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+            <!-- <a class="nav-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a> -->
+            <p class="navrow"><a class = "nav-link"  href="{{ .URL }}"  {{if eq .Title $title}}id="uline" {{end}}>{{.Title}}</a></p>    
+            {{ end }}
+
+    </div>  */}}
+
+  

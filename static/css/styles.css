@@ -7,17 +7,24 @@ ul{ padding-top: 20px;}
 .padding-8{padding: 8px;}
 
 .heading_1{
-    color:blueviolet;
+    color:#99CCFF;
     text-align:center;
     padding-top:10px;
     padding-bottom:20px;
 }
-#main{
-    border-bottom: 2px solid rgb(22, 94, 52);
+#uline{
+    background-color: #99CCFF;
+    color:#2B135C;
 }
-.navrow{font: 1em sans-serif; padding-top: 15px;}
-.navrow>a{color:rgb(110, 16, 16);}
+.navrow{font: 1.2em sans-serif; padding-top: 10px;text-align: center;}
+/* a.nav-link{color: rgb(33, 116, 211);} */
+a.nav-link{color: white;}
+/* .navrow>a{color:rgb(110, 16, 16);padding-top: 10px;} */
 
+/* a:hover{ background-color: rgb(189, 214, 1);} */
+a:hover{ background-color:rgb(164, 197, 216);}
+.leftnav{font: bold 12px Georgia, serif; text-align: center;}
+.sidebar-border { border-style: solid; border-width: 1px; padding-bottom:14px;} */
 .flex-container{
     display: flex;
     flex-flow: row wrap;
@@ -30,15 +37,18 @@ ul{ padding-top: 20px;}
     padding-bottom: 20px;
 }
 .sidebar-nav{
-    padding-top: 10px;
+    padding-top: 20px;
 }
 hr {
     background-color: black;
 }
 
 div > p{
-  color: rgb(60, 68, 68)
+  color: rgb(233, 243, 243)
 }
+div.stats{color:white;}
+div.stats>
+div>h4{color:black;}
 
 
 /* video resize */
@@ -58,3 +68,7 @@ div > p{
 	height:100%;
 }
 .thanx{text-align: center;}
+
+/* body {background-color: grey } */
+body {background-color: #808080;}
+p {color:white;}
