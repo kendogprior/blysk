@@ -1,24 +1,35 @@
-<nav class="sidebar-nav">
-    {{/*  <ul class="navbar-nav sidebar-border">  */}}
-    <ul class="nav flex-column">
+<nav class="sidebar-nav  side-border">
+    <ul class="nav flex-column lift">
 
         {{ $title:= .Title }}
-        {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-            <li class="navrow"><a class = "nav-link"  href="{{ .URL }}"  {{if eq .Title $title}}id="uline" {{end}}>{{.Title}}</a></li>
+            <li class="navrow">
+                <a class = "nav-link"  href="{{ .URL }}"  {{if eq .Title $title}}id="uline" {{end}}>{{.Title}}</a>
+            </li>
+        {{ end }}
+
+        <li class="navrow gals">Galleries</li>
+       
+        {{ range .Site.Menus.gallery }}
+            <li class="navrow">
+                <a class = "nav-link"  href="{{ .URL }}"  {{if eq .Title $title}}id="uline" {{end}}>{{.Title}}</a>
+            </li>
         {{ end }}
     </ul>
 
 
 
-    {{/*  <div id="nav">
-            {{ $title:= .Title }}
-            {{ $currentPage := . }}
-            {{ range .Site.Menus.main }}
-            <!-- <a class="nav-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a> -->
-            <p class="navrow"><a class = "nav-link"  href="{{ .URL }}"  {{if eq .Title $title}}id="uline" {{end}}>{{.Title}}</a></p>    
-            {{ end }}
+{{/*  <ul class = "nav flex-column lift">
+        {{ range .Site.RegularPages}}
+        {{$x := .Param "menu"}}
+        {{$p := .Param "title"}}
+        {{if eq $x "main"}}
+            <li class="navrow">
+                <a class = "nav-link"  href="{{ .RelPermalink }}"  {{if eq .Title $title}} id="uline" {{end}}>{{.Title}}</a>
+            </li> 
+            {{end}}
+        {{ end }}
+</ul>  */}}
 
-    </div>  */}}
 
   
