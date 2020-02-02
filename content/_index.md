@@ -3,6 +3,7 @@ title: "Home"
 draft: true
 menu: "main"
 weight: 1
+isHome: true
 ---
 
 {{< header4 heading = "ABOUT THE SOCIETY">}}
