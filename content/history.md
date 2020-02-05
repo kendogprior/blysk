@@ -1,7 +1,7 @@
 ---
 title: "Brief History"
 date: 2019-05-29T10:22:02+01:00
-draft: true
+draft: false
 weight: 2
 menu: "main"
 heading: "Brief History of the ship"

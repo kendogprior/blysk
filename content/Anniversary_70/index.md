@@ -1,7 +1,7 @@
 ---
 title: "70th Anniversary"
 description: "70th Anniversary of Cowes Blitz 2012"
-draft: true
+draft: false
 menu: "gallery"
 weight: 4
 folder: "anniversary_70"

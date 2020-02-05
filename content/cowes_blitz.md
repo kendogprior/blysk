@@ -1,7 +1,7 @@
 ---
 title: "Cowes Blitz"
 date: 2019-05-29T10:21:26+01:00
-draft: true
+draft: false
 menu: "main"
 weight: 5
 heading: "Cowes Blitz May 1942"

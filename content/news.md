@@ -1,7 +1,7 @@
 ---
 title: "News"
 date: 2019-05-29T11:01:13+01:00
-draft: true
+draft: false
 weight: 6
 menu: "main"
 heading: "News"
