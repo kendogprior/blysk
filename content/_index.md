@@ -1,6 +1,6 @@
 ---
 title: "Home"
-draft: true
+draft: false
 menu: "main"
 weight: 1
 isHome: true
