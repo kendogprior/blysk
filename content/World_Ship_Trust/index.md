@@ -2,7 +2,7 @@
 title: "World Ship Trust"
 description: "World Ship Trust Presentation, November 2007, Gdynia"
 date: 2019-11-14T16:11:11Z
-draft: true
+draft: false
 menu: "gallery"
 weight: 5
 folder: "world_ship_trust"

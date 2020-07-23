@@ -1,7 +1,7 @@
 ---
 title: "65th Anniversary"
 description: "65th Anniversary of Cowes Blitz, May 2007, Cowes"
-draft: true
+draft: false
 menu: "gallery"
 weight: 3
 folder: "anniversary_65"
