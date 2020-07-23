@@ -10,7 +10,10 @@ heading: "Captain Franki's Report"
 <!-- #### REPORT  ON THE  AIR  ATTACK  ON  COWES by the  COMMANDING  OFFICER -->
 {{< header4 heading = "REPORT  ON THE  AIR  ATTACK  ON  COWES ">}}
 
- During the night of 5-6th May, there was a heavy air raid on Cowes where O.R.P. BLYSKAWICA is under repair.
+{{< header5 heading = "by the COMMANDING OFFICER ORP BLYSKAWICA">}}
+
+
+During the night of 5-6th May, there was a heavy air raid on Cowes where O.R.P. BLYSKAWICA is under repair.
  
 The activity of the ship was as follows:-
  
