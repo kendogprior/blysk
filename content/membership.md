@@ -1,7 +1,7 @@
 ---
 title: "Membership"
 date: 2020-07-26T10:49:58+01:00
-draft: true
+draft: false
 weight: 7
 menu: "main"
 heading: "Joining the Blyskawica Society"
