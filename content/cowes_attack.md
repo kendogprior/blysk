@@ -4,7 +4,7 @@ date: 2019-05-29T10:21:26+01:00
 draft: false
 menu: "main"
 weight: 6
-heading: "Captain Franki's Report"
+heading: "Captain Francki's Report:"
 ---
 
 <!-- #### REPORT  ON THE  AIR  ATTACK  ON  COWES by the  COMMANDING  OFFICER -->
