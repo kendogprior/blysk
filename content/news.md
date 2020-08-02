@@ -7,14 +7,12 @@ menu: "main"
 heading: "News"
 ---
 
-{{< header3 heading = "SATURDAY 2nd MAY 2020:">}}
+{{< header3 heading = "COMMEMORATIONS 2020">}}
 
-Commemoration service at the Air Raid Memorial, Kingston Cemetery, East Cowes, commencing at Noon (this is included in the "Blitz Walk", part of the IoW Walking Festival, which starts from East Cowes Heritage Centre, Clarence Road, at 1030am. All welcome).
+Unfortunately, but understandably, this year’s commemorations had to be cancelled due to the Covid 19 pandemic.
+Nonetheless small informal acts of remembrance did take place on both sides of the River Medina, at Francki Place, Cowes, on Sunday 3rd May and in Kingston Cemetery, East Cowes, on Tuesday 5th May.
 
-{{< header3 heading = "SUNDAY 3rd MAY 2020:">}}
-
-Wreath-laying at the Air Raid Memorial, [far end of] Northwood Cemetery, Cowes, commencing at 10.30am.
-Commemorations at the Bandstand, Cowes Parade: gather from 1.30pm, service begins at 2.00.
+The Committee will be making plans for next year’s programme of events as soon as permissible. Let’s hope for a good outcome.
 
 {{< header3 heading = "INFORMATION REQUIRED!">}}
 
