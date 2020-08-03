@@ -15,7 +15,7 @@ pics:
   - img: "Ferus2.jpg"
     title: "Franciszek Ferus"
   - img: "Ferus3.jpg"
-    title: "Isle of Wight Council Chairman Roger Mazilius; Lord Lieutenant of IW Maj. Gen. Martin White; IW High Sheriff David Langdon"
+    title: "Tomasz Ferus’ service record"
   - img: "Ferus4.jpg"
     title: "Tomasz Ferus and his decorations"
 ---
