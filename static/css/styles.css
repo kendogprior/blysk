@@ -17,6 +17,7 @@ ul{ padding-top: 20px;}
     text-align:left;
     padding-top:10px;
     padding-bottom:20px;
+    font-size: medium;
 }
 .small_txt{font-size:small;}
 
@@ -100,12 +101,18 @@ p {color:white;}
 .picin {
     float: left;
     padding: 8px;
-    border: 1px solid 
-    #aaaaaa;
+    border: 1px solid #aaaaaa;
     margin-right: 12px;
     margin-bottom: 2px;
 }
 
+
+.picin2 {
+    
+    padding: 8px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+}
 
 hr.new4 {
     border: 1px solid red;

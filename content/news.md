@@ -7,10 +7,57 @@ menu: "main"
 heading: "News"
 ---
 
-{{< header3 heading = "COMMEMORATIONS 2020">}}
+{{< header3 heading = "COMMEMORATIONS 2020/2021">}}
 
-Unfortunately, but understandably, this year’s commemorations had to be cancelled due to the Covid 19 pandemic.
-Nonetheless small informal acts of remembrance did take place on both sides of the River Medina, at Francki Place, Cowes, on Sunday 3rd May and in Kingston Cemetery, East Cowes, on Tuesday 5th May.
+{{< header4 heading = "COMMEMORATIONS MAY 2020:">}}
+
+Due to the Covid 19 pandemic the Society's
+usual commemorations were cancelled.
+However, Committee member Father Jonathan
+Redvers Harris was able to visit the memorial
+plaques in Francki Place, Cowes, to offer up
+prayers, and flowers were laid there by Dr.
+Chris Magier, Society Chair.
+In East Cowes, a short socially-distanced
+service was led by Rev. Susan Paterson of St.
+James' East Cowes.
+
+
+
+
+
+{{< header4 heading = "COMMEMORATIONS MAY 2021:">}}
+
+On Sunday 2nd May a service of
+commemoration was held in Francki Place,
+Cowes. Prayers were led by Father Jonathan
+Redvers Harris of St. Thomas of Canterbury, Cowes, with brief speeches
+given by Society President Geoff Banks and Cllr. Jane Rann, Mayor of
+East Cowes. Consul Gromski read out a letter from His Excellency the
+Polish Ambassador. Floral tributes and wreaths were laid at a memorial
+plaque by the railings, including wreaths laid on behalf of the two towns
+by Cllr. Rann and Deputy Mayor of Cowes Cllr. Paul Bertie. The anthems
+of France, Poland and the United Kingdom were played. [This service
+was for the first time live-streamed on social media.]
+{{< general_img2 name = "/May21.jpg">}}
+
+On Wednesday 5th May a service
+of remembrance was held at the
+Air Raid Memorial in Kingston
+Cemetery, East Cowes. The
+service was led by Rev. Susan
+Paterson and attended by,
+amongst others, Mayor of East
+Cowes Cllr. Jane Rann. The
+names of all the local victims of
+Luftwaffe air raids were read out
+and wreaths and floral tributes
+laid. A lantern, presented
+previously to the Town by the
+Commanding Officer of the ORP
+Blyskawica, was lit and placed at the memorial
+{{< general_img2 name = "Tribute_21.jpg">}}
+
 
 The Committee will be making plans for next year’s programme of events as soon as permissible. Let’s hope for a good outcome.
 
