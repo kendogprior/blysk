@@ -18,6 +18,8 @@ pics:
     title: "Tomasz Ferus’ service record"
   - img: "Ferus4.jpg"
     title: "Tomasz Ferus and his decorations"
+  - img: "Ferus5.jpg"
+    title: "Burial tomb of Tomasz Ferus"
 ---
 
 
