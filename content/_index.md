@@ -12,7 +12,7 @@ Towards the end of 1997 Geoff Banks, then Mayor of Cowes on the Isle of Wight, c
 
 {{< header4 heading = "AIMS OF THE SOCIETY">}}
 
-The Society’s aims, as stated in its Constitution, are to “raise awareness of the connection with Cowes and the role played in the 2nd World War by the Polish Naval Ship “BLYSKAWICA” and to raise funds to help with the maintenance and preservation of the Ship
+The Society’s aims, as stated in its Constitution, are to “raise awareness of the connection with Cowes and the role played in the 2nd World War by the Polish Naval Ship “BLYSKAWICA”. 
 
 {{< header4 heading = "ACTIVITIES">}}
 
