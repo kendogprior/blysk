@@ -13,19 +13,22 @@ pics:
     title: "Polish officers salute at the Air Raid memorial, flanked by standard bearers. A Royal Naval officer waits to lay a wreath. "
   - img: "75th3.jpg"
     title: "Local children get ready to perform their dance routine."
-  - img: "75th4.jpg"
-    title: "The children re-enact the Blyskawica's defence of Cowes, 4/5 May 1942."
   - img: "75th5.jpg"
-    title: "An exciting part of the routine..."
+    title: "Karpaty dancers in full swing"
   - img: "75th6.jpg"
     title: "Children from Polish schools in Southampton line up in their colourful costumes in Kings Square, East Cowes"
   - img: "75th7.jpg"
-    title: "W/O Darek Chelmowski of ORP Blyskawica with some of the Polish performers"
-  - img: "75th8.jpg"
-    title: "The Karpaty Dancers get ready to perform."
+    title: "Some of our Polish friends"
   - img: "75th9.jpg"
-    title: "The dancers take a bow, to much applause from the local watchers.."
-  
+    title: "Commemoration service at the Blitz-damaged Cowes war memorial, now relocated to Northwood Park"
+  - img: "75th11.jpg"
+    title: "Standards are lowered by the colour-bearers of the Royal British Legion and the Polish contingent seen in the next picture"
+  - img: "75th10.jpg"
+    title: ""
+  - img: "75th12.jpg"
+    title: "Cowes Royal British Legion band marching down to the Bandstand, Cowes Parade" 
+
+    
 ---
 
  {{< images1 path="Anniversary">}}
