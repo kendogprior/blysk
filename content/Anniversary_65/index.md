@@ -21,4 +21,4 @@ pics:
     title: "Veteran and Society Vice-President Otton Hulacki"
 ---
 
- {{< images1 path="Anniversary">}}
+ {{< images1 >}}

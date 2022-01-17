@@ -31,4 +31,4 @@ pics:
     
 ---
 
- {{< images1 path="Anniversary">}}
+ {{< images1 >}}

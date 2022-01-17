@@ -23,4 +23,4 @@ pics:
 ---
 
 
-{{< images1 path="Ferus">}}
+{{< images1 >}}

@@ -7,6 +7,44 @@ menu: "main"
 heading: "News"
 ---
 
+{{< header3 heading = "80th Anniversary of Defence of Cowes and East Cowes by Polish Navy destroyer ORP Błyskawica 4/5th May 1942 'Cowes Blitz' ">}}
+
+
+{{< header4 heading = "30th April, 1st May, 2nd May 2022">}}
+
+9am - 5 pm- exhibition on ORP Błyskawica in East Cowes Town Hall organised by East Cowes Heritage Centre. 
+{{< ruler2 >}}
+
+{{< header4 heading = "WEDNESDAY - 4th May 2022">}}
+
+6.30 pm Blitz talk in East Cowes Town Hall organised by East Cowes Heritage Centre. 
+{{< ruler2 >}}
+
+{{< header4 heading = "THURSDAY - 5th May 2022">}}
+
+8 am - 11 am - arrival of ORP Wodnik to Cowes, Trinity Buoy
+
+2 pm - unveiling of a plaque in King’s Square, East Cowes
+
+2.30 - Guided Blitz Walk East Cowes,
+leaving from King’s Square leading to Kingston Cemetery
+
+4 pm - memorial service at Kingston Cemetery
+
+5 pm - Welcome reception for officers of Polish Navy, Royal Yacht Squadron
+(by invitation only)
+
+7.30 pm - Piano concert by Eva Maria Doroszkowska at Royal Yacht Squadron
+(tickets will be available for public
+{{< ruler2 >}}
+{{< header4 heading = "FRIDAY - 6th May 2022">}}
+
+7 pm - Polish Navy Band concert at East Cowes Town Hall
+subject to confirmation at later date,
+(tickets will be available for public)
+
+{{< ruler >}}
+
 {{< header3 heading = "COMMEMORATIONS 2020/2021">}}
 
 {{< header4 heading = "COMMEMORATIONS MAY 2020:">}}
@@ -23,7 +61,7 @@ service was led by Rev. Susan Paterson of St.
 James' East Cowes.
 
 
-
+{{< ruler >}}
 
 
 {{< header4 heading = "COMMEMORATIONS MAY 2021:">}}
@@ -60,7 +98,7 @@ Blyskawica, was lit and placed at the memorial
 
 
 The Committee will be making plans for next year’s programme of events as soon as permissible. Let’s hope for a good outcome.
-
+{{< ruler >}}
 {{< header3 heading = "INFORMATION REQUIRED!">}}
 
  {{< header_small heading= "DID YOUR RELATIVE SERVE ON THE O.R.P. BŁYSKAWICA?" >}}

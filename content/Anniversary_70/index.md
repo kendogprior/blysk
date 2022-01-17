@@ -29,4 +29,4 @@ pics:
     title: "Visiting Polish warship ORP Torun in Cowes Roads"
 ---
 
- {{< images1 path="Anniversary">}}
+ {{< images1 >}}

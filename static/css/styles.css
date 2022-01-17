@@ -55,6 +55,7 @@ a:hover{ background-color:rgb(164, 197, 216);}
 hr {
     background-color: black;
 }
+hr.news {border: 1px solid red;}
 
 div > p{
   color: rgb(233, 243, 243)
@@ -114,7 +115,12 @@ p {color:white;}
     margin-bottom: 2px;
 }
 
-hr.new4 {
-    border: 1px solid red;
+hr.news {
+    border: 1px solid #99CCFF;
   }
+
+hr.dotted {
+    border-top: 1px dashed rgb(255, 94, 0);
+  }
+  
 .mem{ color: bisque;}
