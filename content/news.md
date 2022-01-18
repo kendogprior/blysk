@@ -40,8 +40,6 @@ leaving from King’s Square leading to Kingston Cemetery
 
 {{< header4 heading = "FRIDAY - 6th May 2022">}}
 
-
-FRIDAY - 6th May 2022
 7 pm - Polish Navy Band concert at East Cowes Town Hall
 subject to confirmation at later date,
 (tickets will be available for public)
