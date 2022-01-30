@@ -19,3 +19,4 @@ The Society’s aims, as stated in its Constitution, are to “raise awareness o
 The Society organises an annual Commemoration marking the part played by ORP Blyskawica in defending the towns of Cowes and East Cowes during the Luftwaffe air raids over the night of 4th-5th May 1942. It was by coincidence that the ship was undergoing an emergency refit in the shipyard where she had been built, but the gratitude of the local people for the actions of the officers and crew that night is shown to this day during the annual ceremony.
 
 {{< header5 heading = "Credit for artwork to Gary Wheeler">}}
+{{< header5 heading = "Credit for website to Brian Prior">}}
