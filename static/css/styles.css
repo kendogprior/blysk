@@ -18,9 +18,10 @@ ul{ padding-top: 20px;}
     padding-top:10px;
     padding-bottom:20px;
     font-size: medium;
+    font-weight: 500;
 }
 .small_txt{font-size:small;}
-
+.sidehead{font-size: medium;color:#99CCFF;}
 .heading_3{
     color:#99CCFF;
 }

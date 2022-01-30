@@ -7,89 +7,100 @@ menu: "main"
 heading: "News"
 ---
 
-{{< header3 heading = "80th Anniversary of Defence of Cowes and East Cowes by Polish Navy destroyer ORP Błyskawica 4/5th May 1942 'Cowes Blitz' ">}}
+{{< header3 heading = "80th Anniversary of Defence of Cowes and East Cowes by Polish Navy destroyer ORP Błyskawica 4/5th May 1942 'Cowes Blitz' ">}}. 
+
 
 
 {{< header4 heading = "30th April, 1st May, 2nd May 2022">}}
 
-9am - 5 pm- exhibition on ORP Błyskawica in East Cowes Town Hall organised by East Cowes Heritage Centre. 
+{{< head1 heading =  "10am - 4pm">}}  &nbsp; Exhibition on ORP Błyskawica in East Cowes Town Hall organised by East Cowes Heritage Centre. 
 {{< ruler2 >}}
 
 {{< header4 heading = "WEDNESDAY - 4th May 2022">}}
 
-6.30 pm Blitz talk in East Cowes Town Hall organised by East Cowes Heritage Centre. 
+{{< head1 heading =  "6.30 pm:">}} Blitz talk in East Cowes Town Hall organised by East Cowes Heritage Centre. 
 {{< ruler2 >}}
 
 {{< header4 heading = "THURSDAY - 5th May 2022">}}
 
-8 am - 11 am - arrival of ORP Wodnik to Cowes, Trinity Buoy
+{{< head1 heading =  "8 am - 11 am -">}} arrival of ORP Wodnik to Cowes, Trinity Buoy
 
-2 pm - unveiling of a plaque in King’s Square, East Cowes
+{{< head1 heading =  "2 pm - ">}} unveiling of a plaque in King’s Square, East Cowes
 
-2.30 - Guided Blitz Walk East Cowes,
-leaving from King’s Square leading to Kingston Cemetery
+{{< head1 heading =  "2.30 pm - ">}}  Guided Blitz Walk East Cowes.  
+(leaving from King’s Square leading to Kingston Cemetery)
 
-4 pm - memorial service at Kingston Cemetery
+{{< head1 heading =  "4 pm -">}}  Memorial service at Kingston Cemetery
 
-5 pm - Welcome reception for officers of Polish Navy, Royal Yacht Squadron
+{{< head1 heading =  "5 pm -">}}  Welcome reception for officers of Polish Navy, Royal Yacht Squadron
 (by invitation only)
 
-7.30 pm - Piano concert by Eva Maria Doroszkowska at Royal Yacht Squadron
-(tickets will be available for public
+{{< head1 heading =  "7.30 pm -">}} Piano concert by Eva Maria Doroszkowska at Royal Yacht Squadron. 
+
+(tickets will be available for public)
 {{< ruler2 >}}
 
 {{< header4 heading = "FRIDAY - 6th May 2022">}}
 
-7 pm - Polish Navy Band concert at East Cowes Town Hall
-subject to confirmation at later date,
-(tickets will be available for public)
+{{< head1 heading =  "7 pm -">}} Polish Navy Band concert at East Cowes Town Hall
+[subject to confirmation at later date.]. 
+
+(tickets available to the public)
 
 {{< ruler2 >}}
 
 {{< header4 heading = "SATURDAY - 7th May 2022">}}
 
-All day (10 am - 6 pm)
-East Cowes Town Hall: Exhibition on Blitz, school art, stalls, refreshments,
-Cowes, Northwood Cemetery: Exhibition on Blitz
-1 pm - 4 pm East Cowes Kings Square:
+{{< head1 heading =  "All day (10 am - 6 pm) -">}}
+East Cowes Town Hall: Exhibition on Blitz, school art, stalls, refreshments.
+
+{{< head1 heading =  "All day (10 am - 6 pm) - ">}}Cowes, Northwood Cemetery: Exhibition on the Blitz
+
+{{< head1 heading =  "1 pm - 4 pm -">}} East Cowes Kings Square:  
 performances by Ryde Ukulele Group, local schools, Karpaty Dancers,
 music by DJ,
-Polish cuisine, Polish shops
+Polish cuisine, Polish shops. 
+
 (free entrance for public)
-2 pm - Cowes Blitz walk leaving from Cowes Parade,
+
+{{< head1 heading =  " 2 pm -">}}  Cowes Blitz walk leaving from Cowes Parade,
 arriving at Northwood Cemetery at 3.30 pm
 
-4 pm - Re-dedication ceremony of monument at communal war grave
+{{< head1 heading =  " 4 pm -">}} Re-dedication ceremony of monument at communal war grave
 Northwood Cemetery, Cowes
 
-7 pm - 1940’s Ballroom Dance at East Cowes Town Hall
+{{< head1 heading =  "7 pm -">}}  1940’s Ballroom Dance at East Cowes Town Hall. <br/>
 (tickets will be available for public)
 
-7.30 for 8.00 pm - official dinner for Polish Navy and Royal Navy officers,
-diplomats from Polish Embassy in London and other VIPs
-(by invitation only)
+{{< head1 heading =  "7.30 for 8.00 pm  -">}} official dinner hosted and funded by the FORPB Society
+for Polish Navy and Royal Navy officers,
+diplomats from Polish Embassy in London and other VIP's  
 
-7.30 pm - Polish Navy Band concert at Cowes Enterprise College
-subject to confirmation at later date,
+(By invitation only)
+
+{{< head1 heading =  "7.30 pm ">}}:  Polish Navy Band concert at Cowes Enterprise College
+[subject to confirmation at later date]. 
+
 (tickets will be available for public)
 {{< ruler2 >}}
 
 {{< header4 heading = "SUNDAY - 8th May 2022">}}
 
-10 am - wreath laying at Northwood cemetery
+{{< head1 heading =  "12 noon">}} - Remembrance ceremony at Francki Place, Cowes
 
-12 noon - flowers laying at Francki Place
-
-1.30 pm - main anniversary celebrations at Bandstand, Cowes Parade
+{{< head1 heading =  "1.30 pm">}} - main anniversary celebrations at Bandstand, Cowes Parade
 (see separate program)
 
-3pm - 5 pm reception at RLYC for invited guests
+{{< head1 heading = "4pm">}} - VIPs and public visiting ORP Wodnik
 
-4 pm - VIPs and public visiting ORP Wodnik
+
 (free tickets to be distributed before and after the main celebrations
 by members of Friends of ORP Błyskawica Society
-but water taxi to be paid separately to service provider)
+NB: water taxi to be paid separately to service provider)
 
+{{< header4 heading = "MONDAY - 9th May 2022">}}
+
+{{< head1 heading =  "9.00 am - 11.00am">}} - departure of ORP Wodnik from Cowes
 
 {{< ruler >}}
 
