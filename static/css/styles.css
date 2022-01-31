@@ -125,3 +125,10 @@ hr.dotted {
   }
   
 .mem{ color: bisque;}
+
+div.a {
+    text-align: center;
+    
+  }
+
+a.head {color: rgb(50, 211, 232);}

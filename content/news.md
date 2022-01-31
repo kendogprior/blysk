@@ -8,7 +8,7 @@ heading: "News"
 ---
 
 {{< header3 heading = "80th Anniversary of Defence of Cowes and East Cowes by Polish Navy destroyer ORP Błyskawica 4/5th May 1942 'Cowes Blitz' ">}}. 
-
+{{< events >}}
 
 
 {{< header4 heading = "30th April, 1st May, 2nd May 2022">}}
