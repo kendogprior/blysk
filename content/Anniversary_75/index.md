@@ -27,8 +27,16 @@ pics:
     title: ""
   - img: "75th12.jpg"
     title: "Cowes Royal British Legion band marching down to the Bandstand, Cowes Parade" 
-
-    
+  - img: "75th13.jpg"
+    title: "l-r: High Sheriff & Lord Lieutenant of Isle of Wight; Polish Ambassador to UK (behind him,
+Chris Magier, now Society Chairman)."
+  - img: "75th14.jpg"
+    title: "Chairman Geoff Banks relates the story of the defence of Cows and East Cowes by the ORP
+Blyskawica in May 1942"
+  - img: "75th15.jpg"
+    title: "Polish Naval Band marching through Cowes"
+  - img: "75th16.jpg"
+    title: "Wreath-laying at Francki Place"
 ---
 
  {{< images1 >}}
