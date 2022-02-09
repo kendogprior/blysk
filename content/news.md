@@ -32,7 +32,7 @@ heading: "News"
 
 {{< head1 heading =  "4 pm -">}}  Memorial service at Kingston Cemetery
 
-{{< head1 heading =  "5 pm -">}}  Welcome reception for officers of Polish Navy, Royal Yacht Squadron
+{{< head1 heading =  "6 pm -">}}  Welcome reception for officers of Polish Navy, Royal Yacht Squadron
 (by invitation only)
 
 {{< head1 heading =  "7.30 pm -">}} Piano concert by Eva Maria Doroszkowska at Royal Yacht Squadron. 
@@ -86,7 +86,7 @@ diplomats from Polish Embassy in London and other VIP's
 
 {{< header4 heading = "SUNDAY - 8th May 2022">}}
 
-{{< head1 heading =  "12 noon">}} - Remembrance ceremony at Francki Place, Cowes
+{{< head1 heading =  "12 noon">}} - Short commemoration ceremony at Francki Place, Cowes
 
 {{< head1 heading =  "1.30 pm">}} - main anniversary celebrations at Bandstand, Cowes Parade
 (see separate program)
