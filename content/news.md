@@ -93,16 +93,8 @@ diplomats from Polish Embassy in London and other VIP's
 {{< head1 heading =  "1.30 pm">}} - main anniversary celebrations at Bandstand, Cowes Parade
 (see separate program)
 
-{{< head1 heading = "4pm">}} - VIPs and public visiting ORP Wodnik
+{{< head1 heading =  "6pm">}} - ORP Wodnik leaving Cowes Roads
 
-
-(free tickets to be distributed before and after the main celebrations
-by members of Friends of ORP Błyskawica Society
-NB: water taxi to be paid separately to service provider)
-
-{{< header4 heading = "MONDAY - 9th May 2022">}}
-
-{{< head1 heading =  "9.00 am - 11.00am">}} - departure of ORP Wodnik from Cowes
 
 {{< ruler >}}
 
