@@ -42,15 +42,6 @@ heading: "News"
 (tickets will be available for public)
 {{< ruler2 >}}
 
-{{< header4 heading = "FRIDAY - 6th May 2022">}}
-
-{{< head1 heading =  "7 pm -">}} Polish Navy Band concert at East Cowes Town Hall
-[subject to confirmation at later date.]. 
-
-(tickets available to the public)
-
-{{< ruler2 >}}
-
 {{< header4 heading = "SATURDAY - 7th May 2022">}}
 
 {{< head1 heading =  "All day (10 am - 6 pm) -">}}
@@ -80,10 +71,6 @@ diplomats from Polish Embassy in London and other VIP's
 
 (By invitation only)
 
-{{< head1 heading =  "7.30 pm ">}}:  Polish Navy Band concert at Cowes Enterprise College
-[subject to confirmation at later date]. 
-
-(tickets will be available for public)
 {{< ruler2 >}}
 
 {{< header4 heading = "SUNDAY - 8th May 2022">}}
