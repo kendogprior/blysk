@@ -7,8 +7,6 @@ menu: "main"
 heading: "News"
 ---
 
-
-
 {{< header3 heading = "COMMEMORATIONS 2020/2021">}}
 
 {{< header4 heading = "COMMEMORATIONS MAY 2020:">}}
