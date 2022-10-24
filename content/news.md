@@ -7,7 +7,7 @@ menu: "main"
 heading: "News"
 ---
 
-{{< header3 heading = "COMMEMORATIONS 2020/2021">}}
+{{< header3 heading = "COMMEMORATIONS 2020-2022">}}
 
 {{< header4 heading = "COMMEMORATIONS MAY 2020:">}}
 
@@ -58,8 +58,37 @@ Commanding Officer of the ORP
 Blyskawica, was lit and placed at the memorial
 {{< general_img2 name = "Tribute_21.jpg">}}
 
+{{< header4 heading = "COMMEMORATIONS 2022:">}}
 
-The Committee will be making plans for next year’s programme of events as soon as permissible. Let’s hope for a good outcome.
+In 2022, 4/5 May saw the 80th anniversary of the Cowes/East Cowes Blitz, therefore a full programme of exhibitions and events had been planned by the Society. Indeed all went to plan, starting with the opening of a Blitz exhibition at East Cowes Town Hall on 30th April, provided by East Cowes Heritage from their extensive archives. 
+A film of local people's reminiscencies was also shown in the week, and a band concert and 40s dance there were popular.
+
+There were guided “Blitz Walks” on both sides of the River, culminating with remembrance services at Northwood and Kingston cemeteries. 
+
+Captain Francki's granddaughter Eva Maria Doroszkowska, a professional concert pianist, gave a recital at the Royal Yacht Squadron, Cowes. This followed a welcome reception for our Polish Navy guests, including cadets from ORP Wodnik.
+
+{{< two_inline "A) ORP Wodnik.jpeg"  "B) guests of a local family.jpeg"  "ORP Wodnik"  "Guests of a local family" >}}
+
+
+Polish Navy training ship ORP Wodnik (Aquarius) had arrived on Thursday morning, bringing also a party of officers and men from ORP Błyskawica. That afternoon they attended the unveiling of a plaque in Kings Square, East Cowes, dedicated to ORP Błyskawica and her sister ship ORP Grom (both built on the Medina River here) and funded by Red Funnel Ferries whose terminal is close by. The unveiling was carried out by descendants of Captain Francki, over from Australia.
+
+{{< two_inline "C) Plaque unveiling.jpeg"  "D) Polish party and plaque.jpeg"  "Plaque unveiling" "Polish party and plaque">}}
+
+
+On the  Saturday Kings Square was given over to local performers and Polish dancers, including a children's troup from Southampton and the Karolinkas from London.
+
+{{< two_inline "E) Karolimka dancers.jpeg"  "F) Polish children line up with Blyskawica crew.jpeg"  "Karolimka dancers"  "Polish children line up with Blyskawica crew" >}}
+
+
+On Sunday 8th a new Polish Consulate was officially opened in Cowes, followed by the traditional service of remembrance held on the Bandstand, Cowes Parade (the wreaths laid there were later taken to the civilian grave in Northwood Cemetery).
+
+{{< two_inline "G) Polish consulate.JPG"  "H) Northwood grave.jpg"  "Polish consulate"  "Northwood grave" >}}
+
+
+After a farewell reception at the Royal London Yacht Club, our Polish guests returned to ORP Wodnik before she set sail from Cowes Roads.  Żegnajcie!
+
+
+
 {{< ruler >}}
 {{< header3 heading = "INFORMATION REQUIRED!">}}
 
@@ -82,3 +111,8 @@ On 7 September I officially joined the Society’s Board and am now actively inv
 I am hoping you may be able to help as I know that you may have amassed a lot of information about a family member who served on board the Ship. What I am looking for is:
 Photograph - portrait (preferably in uniform), date and place of birth, date of death and place of burial, short description of service, on what ships, time served in the Polish Navy (from when to when), list of medals and orders.
 I would be pleased to hear from you with any information." Barbara Dembińska
+
+
+
+
+
