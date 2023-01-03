@@ -6,6 +6,15 @@ weight: 6
 menu: "main"
 heading: "News"
 ---
+{{< header3 heading = "ANNUAL GENERAL MEETING 2023" >}}
+{{< center heading = "The Society’s AGM will take place on Wednesday 25th January 2023 at 6.30pm." >}}
+
+{{< center heading = "Venue: Royal London Yacht Club Cowes Parade. All welcome." >}}
+
+
+{{< ruler >}}
+
+
 
 {{< header3 heading = "COMMEMORATIONS 2020-2022">}}
 
