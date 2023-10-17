@@ -6,6 +6,14 @@ ul{ padding-top: 20px;}
 .margin-top{margin-top: 8px;}
 .padding-8{padding: 8px;}
 
+.heading_7{
+    color:#99CCFF;
+    text-align:left;
+    padding-top:10px;
+    padding-bottom:20px;
+    font-size: medium;
+    font-weight: 500;
+}
 .heading_1{
     color:#99CCFF;
     text-align:center;
@@ -25,6 +33,9 @@ ul{ padding-top: 20px;}
 .heading_3{
     color:#99CCFF;
 }
+
+.emphasis{font-weight: bolder;}
+
 #uline{
     background-color: #99CCFF;
     color:#2B135C;
