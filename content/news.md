@@ -29,20 +29,20 @@ Geoff Banks MBE
 President – Friends of the ORP Blyskawica Society.
 
 
-
-{{< bolder >}}    
    
-{{< header3 heading = "MAY COMMEMORATIONS 2023" >}}
+{{< header3 heading = "MAY COMMEMORATIONS 2024" >}}
 
+This year's commemorations in Cowes and East Cowes will mostly follow the usual programme.
 
-On Thursday 4th May at 2pm a short service and wreath-laying was held by the Grom/Blyskawica memorial plaque in King's Square, East Cowes (this was preceded at 1pm by the annual reading of the names of East Cowes' air raid victims at Kingston Cemetery, organised by the Friends of East Cowes).
-On Friday 5th May there was a short service and wreath-laying at Francki Place, Cowes.
+{{< header3 heading = "Saturday 4th May:" >}}
 
-On Sunday 14th May, again at 2pm at Francki Place, there was a wreath-laying attended by Officers from our Ship and the Polish Consul-General, visiting for the weekend. The Officers had also laid a wreath beforehand at the Bandstand on the Parade.
+10.30 am: guided East Cowes Blitz Walk from the Heritage Centre, 8 Clarence Road, finishing at 12 noon at Kingston Cemetary, when the names of East Cowes Blitz victims will be read out. There will also be a minute's silence.
 
-Afterwards visitors and local were treated to a performance, in the Painters' Arms, by Bob's Basement Band, who had learnt some Polish folk tunes especially for the occasion.
+2 pm: wreath laying at the Blyskawica/Grom plaque in Kings Square East Cowes (by Waitrose)
 
+{{< header3 heading = "Sunday 5th May:" >}}
 
+2 pm: Service of Commemoration and wreath-laying at the Bandstand, Cowes Parade (we are hoping that Cowes Royal British Legion Band will play for us from 1.30 pm)
 
 {{< ruler >}}
 
