@@ -7,6 +7,6 @@ menu: "main"
 heading: "Joining the Blyskawica Society"
 ---
 
-If you are interested in joining the Blyskawica Society please download the application form from {{< membership >}} and print a copy. 
+If you are interested in joining the Blyskawica Society please download the application form from {{< membership >}} and print a copy.
 
 The Society can be contacted via our Facebook page: Friends of the ORP Blyskawica Society. The link is {{< internet_link >}}
